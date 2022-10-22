@@ -1,0 +1,3 @@
+C:/Users/PALLADYN_FUGGAMINIUM/Desktop/Cwiczenia-Zadania/Podstawy Programowania/Zadanie2/cmake-build-debug/CMakeFiles/Zadanie2.dir
+C:/Users/PALLADYN_FUGGAMINIUM/Desktop/Cwiczenia-Zadania/Podstawy Programowania/Zadanie2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PALLADYN_FUGGAMINIUM/Desktop/Cwiczenia-Zadania/Podstawy Programowania/Zadanie2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
